@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="container-fluid">
+    <div class="jumbotron">
+        <h1> {{ PageTitle }} </h1>
+        <font color="#35968e"><h2> {{ PageSubTitle }} </h2></font>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div id="chart1"></div>
+        </div>
+        <div class="col-md-4">
+            <div id="chart2"></div>
+        </div>
+        <div class="col-md-4">
+            <div id="chart3"></div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
