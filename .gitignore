@@ -49,3 +49,5 @@ Temporary Items
 .idea/modules.xml
 app/__pycache__/views.cpython-33.pyc
 app/__pycache__/__init__.cpython-33.pyc
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
